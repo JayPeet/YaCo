@@ -6,7 +6,7 @@
       <size>0x00000000000000EF</size>
       <parent_id>29D695D5FA4A0470</parent_id>
       <address>517FC0</address>
-      <proto>void __cdecl sub(int *pFn1_Arg1, int *pFn1_Arg2, int vert_idx1, int vert_idx2)</proto>
+      <proto>void __cdecl sub(Render_Unknown *pFn1_Arg1, Render_Unknown *pFn1_Arg2, int vert_idx1, int vert_idx2)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">1A49C483</signature>
