@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>81D3C0142943C8CB</id>
+    <id>550B104FA78B8BAC</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>CAD2218410542667</parent_id>
-      <address>14</address>
-      <userdefinedname>pVram</userdefinedname>
-      <proto>WORD *</proto>
+      <parent_id>A04209D18CA0D5C9</parent_id>
+      <address>10</address>
+      <userdefinedname>p1</userdefinedname>
+      <proto>Render_Unknown *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

@@ -6,7 +6,7 @@
       <size>0x00000000000000C1</size>
       <parent_id>29D695D5FA4A0470</parent_id>
       <address>51C4C0</address>
-      <proto>void __cdecl sub(int pVram, int ySize)</proto>
+      <proto>void __cdecl sub(WORD *pVram, int ySize)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">EDBA3147</signature>
