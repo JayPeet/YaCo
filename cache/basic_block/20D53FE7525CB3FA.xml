@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>20D53FE7525CB3FA</id>
+    <version>
+      <size>0x0000000000000030</size>
+      <parent_id>E4DA5047AD61EC95</parent_id>
+      <address>51C4C0</address>
+      <userdefinedname flags="0x00000054">PSX_EMU_Render_Polys_FShaded_NoTexture_Opqaue_51C4C0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">42FEDE57</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000009" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000000F" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000018" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000020" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000025" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">B958DCC71554D364</xref>
+        <xref offset="0x0000000000000009">0D20AE6EAF36D026</xref>
+        <xref offset="0x0000000000000020">7E9D700559DA7F49</xref>
+        <xref offset="0x0000000000000025">05D7598192EAAF3C</xref>
+        <xref offset="0x0000000000000030">A3A8A99FDD2DC4AB</xref>
+        <xref offset="0x00000000000000BB">321E18D7E47DC14E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
