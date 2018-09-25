@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>272F43FEB3287F49</id>
+    <version>
+      <size>0x00000000000000B4</size>
+      <address>F5</address>
+      <userdefinedname>OT_Prim</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F2B6D6A27D96951F</xref>
+        <xref offset="0x0000000000000004">730E604C814D5369</xref>
+        <xref offset="0x0000000000000008">07B64D3478B1974D</xref>
+        <xref offset="0x0000000000000009">9AD5EBBCF455CA04</xref>
+        <xref offset="0x000000000000000A">AB075E7CCFA08964</xref>
+        <xref offset="0x000000000000000B">52DFB070BCAF3F9E</xref>
+        <xref offset="0x000000000000000C">4B4AA4E96629A557</xref>
+        <xref offset="0x000000000000000D">F9C834AC435D7DB2</xref>
+        <xref offset="0x000000000000000E">108F6B43505607C3</xref>
+        <xref offset="0x000000000000000F">9B4993497AFF98FD</xref>
+        <xref offset="0x0000000000000010">8AFE67AB2B9A3DAD</xref>
+        <xref offset="0x0000000000000012">EE85A0465983F3B9</xref>
+        <xref offset="0x0000000000000014">FCED53FC47FC0640</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

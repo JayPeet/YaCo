@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>C1BC504FE980FC55</id>
+    <version>
+      <size>0x0000000000000028</size>
+      <address>167</address>
+      <userdefinedname>OT_Vert</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">09593377C83A2978</xref>
+        <xref offset="0x0000000000000004">874EF593DAC1D09B</xref>
+        <xref offset="0x0000000000000008">1D9F21EF054A2AF7</xref>
+        <xref offset="0x000000000000000C">8CBE90E396C868A6</xref>
+        <xref offset="0x0000000000000010">D6E6177699EDDFF8</xref>
+        <xref offset="0x0000000000000014">9170859E1303E1C6</xref>
+        <xref offset="0x0000000000000018">0B4136CE8E9B4EF5</xref>
+        <xref offset="0x000000000000001C">450006D03BC1F534</xref>
+        <xref offset="0x0000000000000020">435A800767A2478B</xref>
+        <xref offset="0x0000000000000024">0E5232DF036AF95F</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
