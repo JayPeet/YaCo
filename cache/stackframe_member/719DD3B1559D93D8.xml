@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>719DD3B1559D93D8</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>29192C5C2B7B1872</parent_id>
+      <address>4</address>
+      <userdefinedname>xy</userdefinedname>
+      <proto>PSX_Point *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>
