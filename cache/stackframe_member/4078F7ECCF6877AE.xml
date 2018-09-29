@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>644D092ACF531627</parent_id>
       <address>18</address>
-      <userdefinedname>a2</userdefinedname>
+      <userdefinedname>pSlope</userdefinedname>
       <proto>Render_Unknown *</proto>
       <flags>0x25500400</flags>
       <signatures/>
