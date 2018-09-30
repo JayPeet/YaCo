@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>FD32076BAD0AEA11</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <parent_id>A5A8588BE8D7B678</parent_id>
+      <address>4F9170</address>
+      <userdefinedname flags="0x00000054">NoRefs_4F9170</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">EC5EB590</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x000000000000000C">93CC524EED88E97A</xref>
+        <xref offset="0x000000000000000E">935D1D8F38838FFA</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
