@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>ADE43EF07005395E</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>175AF8AF7DD72C88</parent_id>
+      <address>200</address>
+      <userdefinedname>field_200_highlite_glow_speed</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>DEBC92C7B896BD77</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <parent_id>2BE373D2139C695E</parent_id>
+      <address>84</address>
+      <userdefinedname>field_84_vram_rect</userdefinedname>
+      <proto>PSX_RECT</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">8227E9463E7DE6BD</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

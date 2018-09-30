@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>9D4CAFDA55CAE5DA</id>
+    <version>
+      <size>0x0000000000001800</size>
+      <address>160</address>
+      <userdefinedname>Psx_Test</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">0FAB29142D4ECC21</xref>
+        <xref offset="0x0000000000000800">0DE57C0E048B99BD</xref>
+        <xref offset="0x0000000000001000">24FC4BA312512768</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

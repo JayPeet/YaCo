@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>23DF35AA8EC07DC8</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <address>155</address>
+      <userdefinedname>GVert</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F822262B7B96E0BA</xref>
+        <xref offset="0x0000000000000001">4C825E4778669C4C</xref>
+        <xref offset="0x0000000000000002">ABE143DEFCFEE6BF</xref>
+        <xref offset="0x0000000000000003">8F5D4811AC797E2B</xref>
+        <xref offset="0x0000000000000004">16E0C10B579A47C5</xref>
+        <xref offset="0x0000000000000006">84C788CCF8A71B59</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

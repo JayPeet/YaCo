@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>1C1B0AEAE5898C10</id>
+    <version>
+      <size>0x0000000000000060</size>
+      <address>138</address>
+      <userdefinedname>Abe_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">557EF3213863E686</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

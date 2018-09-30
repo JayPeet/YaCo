@@ -6,7 +6,7 @@
       <size>0x0000000000000028</size>
       <parent_id>3688CD291CBCCDBC</parent_id>
       <address>BD3200</address>
-      <userdefinedname flags="0x00000054">sFn1_arg_2_1_dword_BD3200</userdefinedname>
+      <userdefinedname flags="0x00000054">slope_1_BD3200</userdefinedname>
       <proto>Render_Unknown</proto>
       <flags>0x60005400</flags>
       <signatures/>

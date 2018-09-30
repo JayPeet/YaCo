@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>0A45FFB629361D6D</id>
+    <version>
+      <size>0x00000000000000B0</size>
+      <address>12E</address>
+      <userdefinedname>Shadow</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">13FF60E0F6C0AFAF</xref>
+        <xref offset="0x0000000000000004">7748BDBC14B2555F</xref>
+        <xref offset="0x0000000000000008">90C05AF369A4E456</xref>
+        <xref offset="0x000000000000000C">0C7DF88C41BF4F4B</xref>
+        <xref offset="0x0000000000000010">B8F353E30A4806D3</xref>
+        <xref offset="0x0000000000000014">46CF3764F6860F7C</xref>
+        <xref offset="0x0000000000000018">8C7526CB906D70E1</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

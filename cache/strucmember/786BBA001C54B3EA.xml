@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>786BBA001C54B3EA</id>
+    <version>
+      <size>0x0000000000000018</size>
+      <parent_id>033B8DAB1AF2C092</parent_id>
+      <address>14</address>
+      <userdefinedname>mVerts</userdefinedname>
+      <proto>TVert[3]</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">4EB8E1F791DCC7C3</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>AD05C5C6A6E17B64</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>154</address>
+      <userdefinedname>PrimHeaderPart_PsxRect</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">7344229FA1B11E54</xref>
+        <xref offset="0x0000000000000002">ED4858F24DA86B44</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

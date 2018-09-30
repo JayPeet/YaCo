@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>2D030416B38B1B2D</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>152</address>
+      <userdefinedname>PrimHeaderPart</userdefinedname>
+      <flags>0x1</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">E3E9868EDE635824</xref>
+        <xref offset="0x0000000000000000">B702C82F1EA7479B</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

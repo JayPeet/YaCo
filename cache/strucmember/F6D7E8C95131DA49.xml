@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>F6D7E8C95131DA49</id>
+    <version>
+      <size>0x0000000000000060</size>
+      <parent_id>B9A81F3CAB93203F</parent_id>
+      <address>4</address>
+      <userdefinedname>VAbe</userdefinedname>
+      <proto>Abe_VTable</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">1C1B0AEAE5898C10</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>233BB190D53AC46F</id>
+    <version>
+      <size>0x000000000000000C</size>
+      <address>151</address>
+      <userdefinedname>Prim_Header</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">26AD07024913FF69</xref>
+        <xref offset="0x0000000000000004">2C1DF99B14659B9B</xref>
+        <xref offset="0x0000000000000008">93F3426E31BD272B</xref>
+        <xref offset="0x0000000000000009">183BEFEC66688396</xref>
+        <xref offset="0x000000000000000A">9CA8C43ED073EADD</xref>
+        <xref offset="0x000000000000000B">A5E6C08AAF37446D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

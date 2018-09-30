@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>2929803C4407C123</id>
+    <version>
+      <size>0x0000000000000100</size>
+      <address>146</address>
+      <userdefinedname>MainMenuTransition_Polys</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">279192B1774C4CF8</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

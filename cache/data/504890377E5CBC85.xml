@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <data>
+    <id>504890377E5CBC85</id>
+    <version>
+      <size>0x0000000000006000</size>
+      <parent_id>40BE4E65C9A48DB2</parent_id>
+      <address>C215E0</address>
+      <userdefinedname flags="0x00000054">sPsx_abr_lut_C215E0</userdefinedname>
+      <proto>Psx_Test[4]</proto>
+      <flags>0x60005400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">9D4CAFDA55CAE5DA</xref>
+      </xrefs>
+    </version>
+  </data>
+</sigfile>

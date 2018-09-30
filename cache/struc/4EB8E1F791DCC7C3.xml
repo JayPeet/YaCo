@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>4EB8E1F791DCC7C3</id>
+    <version>
+      <size>0x0000000000000008</size>
+      <address>156</address>
+      <userdefinedname>TVert</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">B913962528BF1A1B</xref>
+        <xref offset="0x0000000000000004">F5ABE97778798970</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

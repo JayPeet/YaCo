@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>B702C82F1EA7479B</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>2D030416B38B1B2D</parent_id>
+      <address>1</address>
+      <userdefinedname>mRect</userdefinedname>
+      <proto>PrimHeaderPart_PsxRect</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">AD05C5C6A6E17B64</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>0F1A478D29C8BB8B</id>
+    <version>
+      <size>0x0000000000000002</size>
+      <parent_id>A66DB0DC700AFF27</parent_id>
+      <userdefinedname>x</userdefinedname>
+      <flags>0x10000400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </strucmember>
+</sigfile>

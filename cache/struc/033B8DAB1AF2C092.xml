@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>033B8DAB1AF2C092</id>
+    <version>
+      <size>0x000000000000002C</size>
+      <address>F4</address>
+      <userdefinedname>Poly_FT4</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">242F469FD1EEF52B</xref>
+        <xref offset="0x0000000000000010">2D5494DFABA34DBE</xref>
+        <xref offset="0x0000000000000014">786BBA001C54B3EA</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

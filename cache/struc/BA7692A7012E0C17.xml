@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>BA7692A7012E0C17</id>
+    <version>
+      <size>0x0000000000000060</size>
+      <address>D0</address>
+      <userdefinedname>BaseAliveGameObject_VTable</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">2E70FEF4AC1DD5CB</xref>
+        <xref offset="0x0000000000000004">890B0C841205C860</xref>
+        <xref offset="0x0000000000000008">94BBEC0C6AFE2A25</xref>
+        <xref offset="0x000000000000000C">6EAC03B6736D32A2</xref>
+        <xref offset="0x0000000000000010">C533FCB84D157B89</xref>
+        <xref offset="0x0000000000000014">F39CA1106FACD587</xref>
+        <xref offset="0x0000000000000018">89C8643A3B262BA9</xref>
+        <xref offset="0x000000000000001C">9AD2A080B50D11FE</xref>
+        <xref offset="0x0000000000000020">D0CBA84D400EF821</xref>
+        <xref offset="0x0000000000000024">657E83378D66F94C</xref>
+        <xref offset="0x0000000000000028">FC35E33F3D1A2484</xref>
+        <xref offset="0x000000000000002C">BDE37732B4E4F940</xref>
+        <xref offset="0x0000000000000030">8E68A5E9E7118F4D</xref>
+        <xref offset="0x0000000000000034">6C04301FEE0652A9</xref>
+        <xref offset="0x0000000000000038">2AA9E59B0928D24C</xref>
+        <xref offset="0x000000000000003C">C1C57B00EB4C85B4</xref>
+        <xref offset="0x0000000000000040">DDAD56B68072DD1B</xref>
+        <xref offset="0x0000000000000044">2690C4003B501AA3</xref>
+        <xref offset="0x0000000000000048">7A134F9A8F3B1A83</xref>
+        <xref offset="0x000000000000004C">F48AD4F858713FC5</xref>
+        <xref offset="0x0000000000000050">39333F36D6DD4F55</xref>
+        <xref offset="0x0000000000000054">EE49F8716495B91B</xref>
+        <xref offset="0x0000000000000058">E063C67B4DEFAE32</xref>
+        <xref offset="0x000000000000005C">0276E60E476F080A</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

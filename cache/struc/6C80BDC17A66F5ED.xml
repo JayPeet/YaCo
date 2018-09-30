@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>6C80BDC17A66F5ED</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>11C</address>
+      <userdefinedname>MainMenuControllerResources</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">EC096E4E2FF41C7D</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
