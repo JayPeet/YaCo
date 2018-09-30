@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>01E421B68E05EC28</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>E33DBDE856691C37</parent_id>
+      <address>44</address>
+      <userdefinedname>pVram</userdefinedname>
+      <proto>WORD *</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

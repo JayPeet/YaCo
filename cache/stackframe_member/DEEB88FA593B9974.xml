@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>DEEB88FA593B9974</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <parent_id>C7DF2AC3A63CBC03</parent_id>
+      <address>28</address>
+      <userdefinedname>pFn1</userdefinedname>
+      <proto>void (__cdecl *)(int *, int *, int, int)</proto>
+      <flags>0x25500400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

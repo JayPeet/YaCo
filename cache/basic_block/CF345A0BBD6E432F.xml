@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>CF345A0BBD6E432F</id>
+    <version>
+      <size>0x000000000000007B</size>
+      <parent_id>98E317EECBBC2DF4</parent_id>
+      <address>4FE710</address>
+      <userdefinedname flags="0x00000054">PSX_poly_helper_4FE710_</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">757BC12A</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000007" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001C" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000023" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002A" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000031" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000038" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000040" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000048" operand="00000001">stack</valueview>
+        <valueview offset="000000000000004C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000051" operand="00000000">stack</valueview>
+        <valueview offset="000000000000005B" operand="00000001">stack</valueview>
+        <valueview offset="000000000000005F" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000064" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000069" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000071" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000075" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000005F">913AB8969D0D86E5</xref>
+        <xref offset="0x0000000000000086">5A3536E88A492156</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

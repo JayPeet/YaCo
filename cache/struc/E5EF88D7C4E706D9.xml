@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>E5EF88D7C4E706D9</id>
+    <version>
+      <size>0x0000000000000400</size>
+      <address>14F</address>
+      <userdefinedname>Psx_Data2</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">474C0A5E6F95D7F8</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

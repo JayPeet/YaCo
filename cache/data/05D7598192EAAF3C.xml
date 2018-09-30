@@ -6,7 +6,7 @@
       <size>0x0000000000000028</size>
       <parent_id>3688CD291CBCCDBC</parent_id>
       <address>BD32A0</address>
-      <userdefinedname flags="0x00000054">sFn1_arg_1_2_dword_BD32A0</userdefinedname>
+      <userdefinedname flags="0x00000054">right_side_BD32A0</userdefinedname>
       <proto>Render_Unknown</proto>
       <flags>0x60005400</flags>
       <signatures/>
