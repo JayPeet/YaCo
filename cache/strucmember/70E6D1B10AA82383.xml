@@ -7,8 +7,8 @@
       <parent_id>7A8452D41CE82DFF</parent_id>
       <address>14</address>
       <userdefinedname>field_14_u</userdefinedname>
-      <proto>float</proto>
-      <flags>0x80000400</flags>
+      <proto>DWORD</proto>
+      <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>

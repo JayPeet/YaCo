@@ -7,8 +7,8 @@
       <parent_id>C1BC504FE980FC55</parent_id>
       <address>18</address>
       <userdefinedname>field_18_v</userdefinedname>
-      <proto>float</proto>
-      <flags>0x80000400</flags>
+      <proto>int</proto>
+      <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
     </version>
