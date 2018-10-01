@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>C7DF2AC3A63CBC03</parent_id>
       <address>2C</address>
-      <userdefinedname>pFn2</userdefinedname>
+      <userdefinedname>pRenderScanLines</userdefinedname>
       <proto>void (__cdecl *)(WORD *, int)</proto>
       <flags>0x25500400</flags>
       <signatures/>

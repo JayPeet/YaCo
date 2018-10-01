@@ -6,7 +6,7 @@
       <size>0x00000000000002DD</size>
       <parent_id>29D695D5FA4A0470</parent_id>
       <address>517B10</address>
-      <proto>void __cdecl sub(OT_Prim *pPrim, void (__cdecl *pFn1)(int *, int *, int, int), void (__cdecl *pFn2)(WORD *, int))</proto>
+      <proto>void __cdecl sub(OT_Prim *pPrim, void (__cdecl *pCalcSlopes)(Render_Unknown *, Render_Unknown *, int, int), void (__cdecl *pRenderScanLines)(WORD *, int))</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">C72687A5</signature>

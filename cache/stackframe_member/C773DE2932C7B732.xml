@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>C7DF2AC3A63CBC03</parent_id>
       <address>1C</address>
-      <userdefinedname>pFn1_ret_c1</userdefinedname>
+      <userdefinedname>lowest_y_vert_idx_1</userdefinedname>
       <proto>int</proto>
       <flags>0x20000400</flags>
       <signatures/>
