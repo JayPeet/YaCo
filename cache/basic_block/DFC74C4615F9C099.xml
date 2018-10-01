@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>DFC74C4615F9C099</id>
+    <version>
+      <size>0x000000000000006E</size>
+      <parent_id>AA980411CF3C0DB1</parent_id>
+      <address>517990</address>
+      <userdefinedname flags="0x00000054">PSX_Render_PolyFT4_BlendMode2_517990</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">88376B88</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000000" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000F" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000026" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000033" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000040" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000004D" operand="00000001">offset-off32</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000026">DC9579F5FE6DF56C</xref>
+        <xref offset="0x0000000000000033">4E60DB092A148B57</xref>
+        <xref offset="0x0000000000000040">F7353DCAC24E3551</xref>
+        <xref offset="0x000000000000004D">4D5BA7FDC31E2209</xref>
+        <xref offset="0x000000000000006E">8F6F02A31D8085D8</xref>
+        <xref offset="0x000000000000008E">799B9962178ED9A6</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
