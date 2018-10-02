@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>87D9DB8DB2DD17E3</id>
+    <version>
+      <size>0x0000000000000143</size>
+      <parent_id>29D695D5FA4A0470</parent_id>
+      <address>51C590</address>
+      <proto>void __cdecl sub(WORD *pVRam, int ySize)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">21E3E385</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">A1C70639860840A1</xref>
+        <xref offset="0x0000000000000000" size="0x0000000000000087">32F84F3814CEDB5F</xref>
+        <xref offset="0x0000000000000087" size="0x000000000000000B">E9C96753DE2425FE</xref>
+        <xref offset="0x0000000000000092" size="0x0000000000000004">083BFF0E5E1AF2BA</xref>
+        <xref offset="0x0000000000000096" size="0x0000000000000007">F814E63690A33A95</xref>
+        <xref offset="0x000000000000009D" size="0x000000000000000E">06297EFA0152223D</xref>
+        <xref offset="0x00000000000000AB" size="0x0000000000000015">78FD19B190D44D70</xref>
+        <xref offset="0x00000000000000C0" size="0x0000000000000031">0610C18840EF971F</xref>
+        <xref offset="0x00000000000000F1" size="0x000000000000000C">C1B34E48566630A9</xref>
+        <xref offset="0x00000000000000FD" size="0x000000000000003E">546D06867AD3738A</xref>
+        <xref offset="0x000000000000013B" size="0x0000000000000008">3F895F4A8B3A1BAD</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>
