@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>BBDAC79D058F2E04</parent_id>
       <address>18</address>
-      <userdefinedname>var_C</userdefinedname>
+      <userdefinedname>shade_g_diff</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
