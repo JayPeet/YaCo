@@ -7,8 +7,8 @@
       <parent_id>6B5CECF377F5A290</parent_id>
       <address>38</address>
       <userdefinedname>ySize</userdefinedname>
-      <proto>int</proto>
-      <flags>0x20000400</flags>
+      <proto>WORD *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>
