@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>16E7F171D98FBD85</id>
+    <version>
+      <size>0x000000000000004A</size>
+      <parent_id>DFBD0DBE5007985B</parent_id>
+      <address>51D2B0</address>
+      <userdefinedname flags="0x00000054">PSX_EMU_Render_Polys_Textured_Blending_SemiTrans_51D2B0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">206DE363</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000008" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000013" operand="00000001">offset-off32</valueview>
+        <valueview offset="000000000000001A" operand="00000000">stack</valueview>
+        <valueview offset="000000000000001E" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000028" operand="00000000">stack</valueview>
+        <valueview offset="000000000000002F" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000037" operand="00000000">stack</valueview>
+        <valueview offset="000000000000003B" operand="00000001">offset-off32</valueview>
+        <valueview offset="0000000000000040" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000003">0D20AE6EAF36D026</xref>
+        <xref offset="0x0000000000000008">F40F425ECA1B4A97</xref>
+        <xref offset="0x0000000000000013">05D7598192EAAF3C</xref>
+        <xref offset="0x000000000000001E">02936E884232E0F1</xref>
+        <xref offset="0x000000000000002F">504890377E5CBC85</xref>
+        <xref offset="0x000000000000003B">7E9D700559DA7F49</xref>
+        <xref offset="0x000000000000004A">5F071A16D3A2EA42</xref>
+        <xref offset="0x0000000000000219">CE62FE124280F46E</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
