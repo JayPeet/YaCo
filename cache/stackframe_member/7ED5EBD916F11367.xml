@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>27FAA880D74972F6</parent_id>
       <address>18</address>
-      <userdefinedname>psx_abr_lut</userdefinedname>
+      <userdefinedname>abr_lut</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>
