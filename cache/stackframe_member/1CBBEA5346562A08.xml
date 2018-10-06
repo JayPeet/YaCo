@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>4AA3264B2B9FA9EF</id>
+    <id>1CBBEA5346562A08</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>08B0F0F96C303088</parent_id>
-      <address>5C</address>
-      <userdefinedname>g1</userdefinedname>
-      <proto>int</proto>
+      <parent_id>A0738A615EE43BE5</parent_id>
+      <address>10</address>
+      <userdefinedname>var_4</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

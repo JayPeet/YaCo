@@ -6,6 +6,7 @@
       <size>0x000000000000018E</size>
       <parent_id>3FEDF1CE89A2A92F</parent_id>
       <address>4F80C0</address>
+      <proto>void __cdecl sub(int x0, int y0, int x1, int y1, unsigned __int8 r, int g, int b)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">738CB0D7</signature>
