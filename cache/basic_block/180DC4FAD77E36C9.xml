@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>180DC4FAD77E36C9</id>
+    <version>
+      <size>0x0000000000000085</size>
+      <parent_id>03C7985EEB66FAE2</parent_id>
+      <address>4F7E88</address>
+      <signatures>
+        <signature algo="crc32" method="invariants">0B4D15C5</signature>
+      </signatures>
+      <offsets>
+        <comments offset="000000000000000D" type="nonrepeatable_comment">a11</comments>
+        <comments offset="0000000000000011" type="nonrepeatable_comment">a10</comments>
+        <comments offset="0000000000000015" type="nonrepeatable_comment">a9</comments>
+        <comments offset="0000000000000019" type="nonrepeatable_comment">a8</comments>
+        <comments offset="0000000000000022" type="nonrepeatable_comment">a7</comments>
+        <comments offset="0000000000000029" type="nonrepeatable_comment">a6</comments>
+        <comments offset="000000000000002A" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000037" type="nonrepeatable_comment">a4</comments>
+        <comments offset="000000000000003A" type="nonrepeatable_comment">a3</comments>
+        <comments offset="000000000000003B" type="nonrepeatable_comment">a2</comments>
+        <comments offset="000000000000003C" type="nonrepeatable_comment">pOtPrim</comments>
+        <comments offset="000000000000004B" type="nonrepeatable_comment">a11</comments>
+        <comments offset="000000000000004F" type="nonrepeatable_comment">a10</comments>
+        <comments offset="0000000000000053" type="nonrepeatable_comment">a9</comments>
+        <comments offset="0000000000000057" type="nonrepeatable_comment">a8</comments>
+        <comments offset="000000000000005C" type="nonrepeatable_comment">a7</comments>
+        <comments offset="0000000000000063" type="nonrepeatable_comment">a6</comments>
+        <comments offset="0000000000000064" type="nonrepeatable_comment">a5</comments>
+        <comments offset="0000000000000071" type="nonrepeatable_comment">a4</comments>
+        <comments offset="0000000000000074" type="nonrepeatable_comment">a3</comments>
+        <comments offset="0000000000000075" type="nonrepeatable_comment">a2</comments>
+        <comments offset="0000000000000076" type="nonrepeatable_comment">pOtPrim</comments>
+        <valueview offset="0000000000000009" operand="00000001">stack</valueview>
+        <valueview offset="000000000000001A" operand="00000001">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x000000000000003D">673F9BE35C86DED5</xref>
+        <xref offset="0x0000000000000077">673F9BE35C86DED5</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>

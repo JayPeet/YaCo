@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe>
+    <id>08B0F0F96C303088</id>
+    <version>
+      <size>0x0000000000000064</size>
+      <parent_id>2BEC47316A9E0B1C</parent_id>
+      <address>4F8250</address>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000010">ED6C0FCDE40A48D4</xref>
+        <xref offset="0x0000000000000014">73923281DBF847F9</xref>
+        <xref offset="0x0000000000000018">4DC84D4326AFA059</xref>
+        <xref offset="0x000000000000001C">F99DF50979D52955</xref>
+        <xref offset="0x0000000000000020">FE0BB428F5E96C6F</xref>
+        <xref offset="0x0000000000000024">3C021D4298E73737</xref>
+        <xref offset="0x0000000000000028">421B227C7B19EAFC</xref>
+        <xref offset="0x000000000000002C">87EE0705B48BF543</xref>
+        <xref offset="0x0000000000000030">253E19D6DAE3EF76</xref>
+        <xref offset="0x0000000000000038">4AB8706F48EE0666</xref>
+        <xref offset="0x000000000000003C">CAFF623F116876E9</xref>
+        <xref offset="0x0000000000000040">B8E6BFAE52657F90</xref>
+        <xref offset="0x0000000000000044">F5FB215F9D7B6F20</xref>
+        <xref offset="0x0000000000000048">4DBFC5CEF575B5EC</xref>
+        <xref offset="0x000000000000004C">38D428C2E3B89348</xref>
+        <xref offset="0x0000000000000050">A0EFC83F5609AD8C</xref>
+        <xref offset="0x0000000000000054">911DBC4957CBEFB6</xref>
+        <xref offset="0x0000000000000058">C300F8A5A84086F2</xref>
+        <xref offset="0x000000000000005C">4AA3264B2B9FA9EF</xref>
+        <xref offset="0x0000000000000060">70665FFB14C4A405</xref>
+      </xrefs>
+      <attribute key="stack_lvars">0x00000034</attribute>
+      <attribute key="stack_regvars">0x00000000</attribute>
+      <attribute key="stack_args">0x00000000</attribute>
+    </version>
+  </stackframe>
+</sigfile>
