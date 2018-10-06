@@ -7,7 +7,7 @@
       <parent_id>EC21003A6C179BFD</parent_id>
       <address>28</address>
       <userdefinedname>y0</userdefinedname>
-      <proto>WORD *</proto>
+      <proto>BYTE *</proto>
       <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>

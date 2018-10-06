@@ -6,7 +6,7 @@
       <size>0x0000000000000173</size>
       <parent_id>29D695D5FA4A0470</parent_id>
       <address>517990</address>
-      <proto>void __cdecl sub(OT_Prim *pPrim, int width, int height, int pDrawBitMask, int x0, int y0)</proto>
+      <proto>void __cdecl sub(OT_Prim *pPrim, int width2, int height, _DWORD *pDrawBitMask, int x0, int y0)</proto>
       <flags>0x4400</flags>
       <signatures>
         <signature algo="crc32" method="invariants">DA638219</signature>
