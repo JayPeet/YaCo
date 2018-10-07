@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <function>
+    <id>B07A61ABC20DB00A</id>
+    <version>
+      <size>0x00000000000000C6</size>
+      <parent_id>3FEDF1CE89A2A92F</parent_id>
+      <address>4FE640</address>
+      <proto>void __cdecl sub(int *pX, int *pY, int a3, int a4, char clipEdges)</proto>
+      <flags>0x4400</flags>
+      <signatures>
+        <signature algo="crc32" method="invariants">CDDBACBA</signature>
+      </signatures>
+      <xrefs>
+        <xref offset="0x00000000FFFFFFFF">0E8225953FBDE210</xref>
+        <xref offset="0x0000000000000000" size="0x000000000000001C">0825C3755E8DFCB4</xref>
+        <xref offset="0x000000000000001C" size="0x0000000000000020">A60FB4413F87BB99</xref>
+        <xref offset="0x000000000000003C" size="0x0000000000000004">A82E9C7FAF1F90DF</xref>
+        <xref offset="0x0000000000000040" size="0x000000000000001E">22348CDC717BF41D</xref>
+        <xref offset="0x000000000000005E" size="0x0000000000000008">2A5738801F8EDFA8</xref>
+        <xref offset="0x0000000000000066" size="0x0000000000000004">423A5FA9C17442DA</xref>
+        <xref offset="0x000000000000006A" size="0x000000000000002B">16AE485B2737B137</xref>
+        <xref offset="0x0000000000000095" size="0x0000000000000004">69F252E7E5F00818</xref>
+        <xref offset="0x0000000000000099" size="0x0000000000000028">B65AB1D6412DC3BE</xref>
+        <xref offset="0x00000000000000C1" size="0x0000000000000005">9C55396437EB667D</xref>
+      </xrefs>
+    </version>
+  </function>
+</sigfile>

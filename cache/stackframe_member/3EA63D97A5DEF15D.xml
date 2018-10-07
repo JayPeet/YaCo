@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <stackframe_member>
+    <id>3EA63D97A5DEF15D</id>
+    <version>
+      <size>0x0000000000000001</size>
+      <parent_id>0E8225953FBDE210</parent_id>
+      <address>24</address>
+      <userdefinedname>clipEdges</userdefinedname>
+      <flags>0x400</flags>
+      <signatures/>
+      <xrefs/>
+    </version>
+  </stackframe_member>
+</sigfile>

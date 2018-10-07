@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <stackframe_member>
-    <id>1CBBEA5346562A08</id>
+    <id>1C005ABAB19A4CC5</id>
     <version>
       <size>0x0000000000000004</size>
-      <parent_id>A0738A615EE43BE5</parent_id>
-      <address>10</address>
-      <userdefinedname>pitch2</userdefinedname>
-      <flags>0x20000400</flags>
+      <parent_id>0E8225953FBDE210</parent_id>
+      <address>18</address>
+      <userdefinedname>pY</userdefinedname>
+      <proto>int *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

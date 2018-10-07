@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <basic_block>
+    <id>0C32132B2651CBBF</id>
+    <version>
+      <size>0x0000000000000068</size>
+      <parent_id>763F56A862A9D412</parent_id>
+      <address>4FE4F0</address>
+      <userdefinedname flags="0x00000054">PSX_Clip_Line_Segments_4FE4F0</userdefinedname>
+      <signatures>
+        <signature algo="crc32" method="invariants">20B3BCC1</signature>
+      </signatures>
+      <offsets>
+        <valueview offset="0000000000000003" operand="00000001">stack</valueview>
+        <valueview offset="000000000000000C" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000015" operand="00000001">stack</valueview>
+        <valueview offset="0000000000000025" operand="00000001">stack</valueview>
+        <valueview offset="000000000000003B" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000043" operand="00000000">stack</valueview>
+        <valueview offset="0000000000000050" operand="00000000">stack</valueview>
+        <valueview offset="000000000000005C" operand="00000000">stack</valueview>
+      </offsets>
+      <xrefs>
+        <xref offset="0x0000000000000047">AEED4F3B13B45E1D</xref>
+        <xref offset="0x0000000000000054">AEED4F3B13B45E1D</xref>
+        <xref offset="0x0000000000000068">59974B19EBA3CFED</xref>
+        <xref offset="0x00000000000000F4">59D1CC5F27FD8937</xref>
+      </xrefs>
+    </version>
+  </basic_block>
+</sigfile>
