@@ -6,7 +6,7 @@
       <size>0x0000000000000004</size>
       <parent_id>08B0F0F96C303088</parent_id>
       <address>24</address>
-      <userdefinedname>var_10</userdefinedname>
+      <userdefinedname>abr_lut_r</userdefinedname>
       <flags>0x20000400</flags>
       <signatures/>
       <xrefs/>

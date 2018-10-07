@@ -7,8 +7,8 @@
       <parent_id>08B0F0F96C303088</parent_id>
       <address>38</address>
       <userdefinedname>pOtPrim</userdefinedname>
-      <proto>int</proto>
-      <flags>0x20000400</flags>
+      <proto>PrimHeader *</proto>
+      <flags>0x25500400</flags>
       <signatures/>
       <xrefs/>
     </version>

@@ -11,6 +11,10 @@
         <signature algo="crc32" method="invariants">0A81DE27</signature>
       </signatures>
       <offsets>
+        <comments offset="000000000000008D" type="nonrepeatable_comment">pY1</comments>
+        <comments offset="0000000000000092" type="nonrepeatable_comment">pX1</comments>
+        <comments offset="0000000000000097" type="nonrepeatable_comment">pY0</comments>
+        <comments offset="000000000000009B" type="nonrepeatable_comment">pX0</comments>
         <valueview offset="0000000000000003" operand="00000001">offset-off32</valueview>
         <valueview offset="0000000000000008" operand="00000001">offset-off32</valueview>
         <valueview offset="0000000000000013" operand="00000001">stack</valueview>
