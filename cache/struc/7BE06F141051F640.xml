@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>7BE06F141051F640</id>
+    <version>
+      <size>0x0000000000000004</size>
+      <address>16B</address>
+      <userdefinedname>Unknown_Struct_Parts</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">F7B3B7FAC1A55476</xref>
+        <xref offset="0x0000000000000002">DA87CBED084133B7</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

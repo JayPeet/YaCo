@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <strucmember>
+    <id>8048E071DC1AE547</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <parent_id>24025C6A70C858E9</parent_id>
+      <userdefinedname>field_0</userdefinedname>
+      <proto>Unknown_Struct_Parts[5]</proto>
+      <flags>0x60000400</flags>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">7BE06F141051F640</xref>
+      </xrefs>
+    </version>
+  </strucmember>
+</sigfile>
