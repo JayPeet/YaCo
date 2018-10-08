@@ -6,7 +6,7 @@
       <size>0x000000000000003A</size>
       <parent_id>8D61F29CE0B18229</parent_id>
       <address>449A90</address>
-      <userdefinedname flags="0x00000054">Clear_Unknown_Data_449A90</userdefinedname>
+      <userdefinedname flags="0x00000054">Clear_Slurg_Step_Watch_Points_449A90</userdefinedname>
       <signatures>
         <signature algo="crc32" method="invariants">458EF480</signature>
       </signatures>

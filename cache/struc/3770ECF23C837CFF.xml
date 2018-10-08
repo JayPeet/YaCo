@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>3770ECF23C837CFF</id>
+    <version>
+      <size>0x0000000000000014</size>
+      <address>16C</address>
+      <userdefinedname>Slurg_Step_Watch_Points</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">589746399078C8F8</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>

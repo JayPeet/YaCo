@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="iso-8859-15"?>
 <sigfile>
   <strucmember>
-    <id>DA87CBED084133B7</id>
+    <id>93C872791B7A87B6</id>
     <version>
       <size>0x0000000000000002</size>
-      <parent_id>7BE06F141051F640</parent_id>
+      <parent_id>0DB48663389F6209</parent_id>
       <address>2</address>
-      <userdefinedname>field_2</userdefinedname>
+      <userdefinedname>field_2_YPos</userdefinedname>
       <flags>0x10000400</flags>
       <signatures/>
       <xrefs/>
