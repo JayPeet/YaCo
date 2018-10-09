@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <struc>
+    <id>CD0A6CE5D199132B</id>
+    <version>
+      <size>0x0000000000000010</size>
+      <address>15D</address>
+      <userdefinedname>Prim_SetTPage</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000000000000">44C4A5B03E627D06</xref>
+        <xref offset="0x000000000000000C">D137BC0599E85240</xref>
+      </xrefs>
+    </version>
+  </struc>
+</sigfile>
